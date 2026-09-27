@@ -135,3 +135,45 @@ h3{font:600 20px/1.2 Georgia,serif}
   .brief-highlights a { min-height:0; }
   .brief-highlights strong { font-size:34px; }
 }
+
+/* Shorter reading path on the platform overview, catalogue and method. */
+.platform-home .hero .wrap { padding:49px 0 53px; }
+.platform-home .hero h1 { max-width:930px; }
+.platform-home .section { padding:49px 0; }
+.platform-home .section.tight { padding:38px 0; }
+.platform-home .section-head { margin-bottom:20px; }
+.platform-home .section-head p { max-width:620px; }
+.platform-home .card { min-height:0; padding:22px; }
+.platform-home .card h3 { margin:10px 0 8px; }
+.platform-home .card p { margin-bottom:13px; }
+.platform-home .band .wrap { gap:8px 32px; }
+.platform-method .subhero,.platform-evidence .subhero { padding:37px 0 31px; }
+.platform-method .section { padding:42px 0; }
+.platform-method .section.tight { padding:30px 0; }
+.platform-method .card { min-height:0; padding:22px; }
+.platform-method .card h3 { margin:10px 0 9px; }
+.platform-method .card p { margin-bottom:11px; }
+.platform-method .provenance { padding:23px; }
+.platform-method .provenance p { margin:10px 0 0; color:#3a5864; font-size:14px; }
+.platform-evidence .section.tight { padding:35px 0; }
+.platform-evidence .featured-brief { margin:17px 0 21px; font-size:15px; }
+.platform-evidence .featured-brief a { color:#075f69; font-weight:700; }
+.platform-evidence .records { gap:12px; margin-top:16px; }
+.platform-evidence .record { padding:21px 24px; border-left:4px solid #d79a5a; }
+.platform-evidence .record.organ-kidney { border-left-color:#17858b; }
+.platform-evidence .record.organ-lung { border-left-color:#6382a1; }
+.platform-evidence .record h2 { margin:10px 0 9px; font-size:21px; line-height:1.25; }
+.platform-evidence .record p { margin:8px 0; line-height:1.5; }
+.platform-evidence .record .boundary { margin:11px 0 8px; }
+.platform-evidence .record dl { margin:0 0 8px; }
+.platform-evidence .record .record-top { justify-content:flex-start; }
+.platform-evidence .section.alt.tight { padding:31px 0 37px; }
+.platform-evidence .section.alt h2 { margin-bottom:8px; font-size:31px; }
+.platform-evidence .section.alt p { margin-bottom:15px; }
+@media(max-width:560px) {
+  .platform-home .hero .wrap { padding:38px 0 42px; }
+  .platform-home .section,.platform-method .section { padding:34px 0; }
+  .platform-home .section.tight,.platform-method .section.tight,.platform-evidence .section.tight { padding:29px 0; }
+  .platform-evidence .record { padding:19px; }
+  .platform-evidence .record h2 { font-size:19px; }
+}
