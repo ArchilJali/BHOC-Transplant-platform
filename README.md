@@ -12,7 +12,7 @@ The first collection contains five external studies migrated from the existing `
 
 ## What stays in the main platform
 
-The historical catalogue of **53 transplantation and oxygen-carrier publications** remains at the [BHOC Platform Transplant history and source catalogue](https://archiljali.github.io/BHOC-platform/transplant/Transplant-index.html). General HBOC history and the main human and veterinary bibliographies also remain there. This repository links to those records and does not keep a second editable copy.
+The historical catalogue of **53 transplantation and oxygen-carrier publications** remains at the [BHOC Platform Transplant history and source catalogue](https://bhoctherapeutics.com/evidence/library/transplant/Transplant-index.html). General HBOC history and the main human and veterinary bibliographies also remain there. This repository links to those records and does not keep a second editable copy.
 
 ## Public routes
 
